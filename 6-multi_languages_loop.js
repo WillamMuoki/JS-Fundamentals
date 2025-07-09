@@ -5,13 +5,11 @@ const lines = [
   'JavaScript is amazing'
 ];
 
-let i = 0;
 let output = '';
 
-while (i < lines.length) {
+for (let i = 0; i < lines.length; i++) {
   output += lines[i];
   if (i < lines.length - 1) {
     output += '\n';
   }
-  i++;
 }
