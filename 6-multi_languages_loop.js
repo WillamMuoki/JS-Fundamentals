@@ -4,6 +4,6 @@ const lines = [
   'Python is cool',
   'JavaScript is amazing'];
 
-for (let i=0(lines.length;i++) {
+for (let i=0(lines.;i++) {
   console.log[i];
 }
