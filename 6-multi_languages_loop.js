@@ -5,5 +5,5 @@ const lines = [
   'JavaScript is amazing'];
 
 for (let i=0(lines.;i++) {
-  console.log[i];
+  console.log (lines [i]);
 }
