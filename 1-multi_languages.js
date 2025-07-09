@@ -1,5 +1,8 @@
 #!usr/bin/node
-console.log("c is fun");
-console.log("python is cool");
-console.log("JavaScript is amazing");
-console.log("c isfun" , "pythone is cool", JavaScript is amazing"); 
+const line = [
+console.log"c is fun";
+console.log"python is cool";
+console.log"JavaScript is amazing";
+ ];
+for (let i = 0; i<lines.length;i++ {
+  console.log(lines[i]);
