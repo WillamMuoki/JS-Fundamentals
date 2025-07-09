@@ -2,8 +2,16 @@
 const lines = [
   'C is fun',
   'Python is cool',
-  'JavaScript is amazing'];
+  'JavaScript is amazing'
+];
 
-for (let i=0(lines.;i++) {
-  console.log (lines [i]);
+let i = 0;
+let output = '';
+
+while (i < lines.length) {
+  output += lines[i];
+  if (i < lines.length - 1) {
+    output += '\n';
+  }
+  i++;
 }
