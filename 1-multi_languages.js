@@ -1,5 +1,5 @@
 #!usr/bin/node
-const line = [
+const lines = [
 console.log"c is fun";
 console.log"python is cool";
 console.log"JavaScript is amazing";
